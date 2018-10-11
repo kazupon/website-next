@@ -1,0 +1,23 @@
+{
+  "app.js": "/static/js/app.bc50f9e1.js",
+  "en-us-index.js": "/static/js/en-us-index.b9e02c2a.js",
+  "en-us-community-built-with-assemblyscript.js": "/static/js/en-us-community-built-with-assemblyscript.7deaf713.js",
+  "en-us-community-slack.js": "/static/js/en-us-community-slack.7e45628a.js",
+  "en-us-documentation-built-in-functions.js": "/static/js/en-us-documentation-built-in-functions.3e3fac4b.js",
+  "en-us-documentation-faq.js": "/static/js/en-us-documentation-faq.acc314f3.js",
+  "en-us-documentation-debugging.js": "/static/js/en-us-documentation-debugging.a4e8ad11.js",
+  "en-us-documentation-memory-layout-and-management.js": "/static/js/en-us-documentation-memory-layout-and-management.2bee2b79.js",
+  "en-us-documentation-types.js": "/static/js/en-us-documentation-types.0c296c93.js",
+  "en-us-documentation-writing-portable-code.js": "/static/js/en-us-documentation-writing-portable-code.9d9803fb.js",
+  "en-us-documentation-wasm-to-typescript.js": "/static/js/en-us-documentation-wasm-to-typescript.9fba6d56.js",
+  "en-us-development-architecture.js": "/static/js/en-us-development-architecture.5a197cad.js",
+  "en-us-getting-started-cli-usage.js": "/static/js/en-us-getting-started-cli-usage.c5f51b53.js",
+  "en-us-development-contributing.js": "/static/js/en-us-development-contributing.4e9c2e5d.js",
+  "en-us-development-roadmap.js": "/static/js/en-us-development-roadmap.2a6a3456.js",
+  "en-us-getting-started-limitations.js": "/static/js/en-us-getting-started-limitations.1c2dadb5.js",
+  "en-us-getting-started-project-configuration.js": "/static/js/en-us-getting-started-project-configuration.1501343f.js",
+  "en-us-getting-started-quick-start.js": "/static/js/en-us-getting-started-quick-start.a5ddbce4.js",
+  "vendors.js": "/static/js/vendors.82810f9f.js",
+  "runtime~app.js": "/static/js/runtime~app.22ede22cbbb8a5c20017.js",
+  "index.html": "/index.html"
+}
